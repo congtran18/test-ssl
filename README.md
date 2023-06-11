@@ -18,11 +18,11 @@ git clone https://github.com/munikeraragon/react-express-letsencrypt-nginx-boile
 cd react-express-letsencrypt-nginx-boilerplate
 ```
 
-3. Edit init-letsecncrypt.sh by replacing "example.com" and "www.example.com" with your domain name
+3. Edit init-letsecncrypt.sh by replacing "newcom598.wiki" and "www.newcom598.wiki" with your domain name
 
-4. Edit ./data/nginx/app.conf by replacing "example.com" with your domain name
+4. Edit ./data/nginx/app.conf by replacing "newcom598.wiki" with your domain name
 
-5. Edit ./server/index.js by replacing "example.com" with your domain name
+5. Edit ./server/index.js by replacing "newcom598.wiki" with your domain name
 
 3. Generate Letsencrypt certificates
 

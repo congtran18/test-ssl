@@ -7,15 +7,15 @@ const port = 5000
 
 var credentials = {
     key: fs.readFileSync(
-        '/etc/letsencrypt/live/example.com/privkey.pem',
+        '/etc/letsencrypt/live/newcom598.wiki/privkey.pem',
         'utf8'
     ),
     cert: fs.readFileSync(
-        '/etc/letsencrypt/live/example.com/cert.pem',
+        '/etc/letsencrypt/live/newcom598.wiki/cert.pem',
         'utf8'
     ),
     ca: fs.readFileSync(
-        '/etc/letsencrypt/live/example.com/fullchain.pem',
+        '/etc/letsencrypt/live/newcom598.wiki/fullchain.pem',
         'utf8'
     ),
 };
